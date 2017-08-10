@@ -1,5 +1,9 @@
 ## Awesome Security Gists
 
+### Explanation
+
+- [**WebSockets**](https://gist.github.com/subudeepak/9897212) : An introduction to Web Sockets
+
 ### Payloads
 
 - [**XXE Payloads**](https://gist.github.com/staaldraad/01415b990939494879b4) : Collection of XXE payloads
