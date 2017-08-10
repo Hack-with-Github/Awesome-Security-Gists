@@ -10,6 +10,7 @@
 
 ### Pentest
 
+- [**GitHub for Bug Bounty Hunters**](https://gist.github.com/EdOverflow/922549f610b258f459b219a32f92d10b) : Tips for finding security issues in GitHub projects
 - [**Proposal: Node.js penetration test framework**](https://gist.github.com/jesusprubio/8f092af4ca252e252eab) : Has a good collection of WebApp (NodeJS) pentesting tools in comments
 
 ### Misc
