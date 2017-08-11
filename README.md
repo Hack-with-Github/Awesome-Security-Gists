@@ -3,6 +3,7 @@
 ### Explanation
 
 - [**HowTo: Privacy & Security Conscious Browsing**](https://gist.github.com/atcuno/3425484ac5cce5298932) : Recommendations on how to browse in a privacy and security conscious manner
+- [**WannaCry**](https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168) : WannaCry fact sheet
 - [**WebSockets**](https://gist.github.com/subudeepak/9897212) : An introduction to Web Sockets
 
 ### Payloads
