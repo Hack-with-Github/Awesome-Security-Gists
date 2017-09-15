@@ -1,3 +1,5 @@
+![Awesome Security Gists](awesome_security_gists.jpg)
+
 ## Awesome Security Gists
 
 ### Explanation
