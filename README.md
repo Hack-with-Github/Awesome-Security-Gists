@@ -21,5 +21,6 @@
 ### Misc
 
 - [**EQGroup**](https://gist.github.com/bontchev/e5d2e5090ebe1be89b4f821ebb1ad0f9) : Curated list of links describing the leaked Equation Group tools for Windows
+- [**GoogleHackMasterList.txt**](https://gist.github.com/cmartinbaughman/5877945) : The definitive super list for "Google Hacking"
 - [**InfoSec Newbie**](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31) : Collection of resources on how to start in InfoSec
 - [**Most VPN Services are Terrible**](https://gist.github.com/kennwhite/1f3bc4d889b02b35d8aa) : Collection of terrible VPN services which are *not recommended*
